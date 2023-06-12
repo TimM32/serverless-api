@@ -1,0 +1,15 @@
+{
+    "name": "serverless-api",
+    "version": "1.0.0",
+    "description": "## Lab: Serverless-API: DyanmoDB and Dynamoose",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "dynamoose": "^3.2.0"
+    }
+  }
